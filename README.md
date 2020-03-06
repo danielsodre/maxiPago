@@ -1,2 +1,4 @@
 # maxiPago
 maxiPago methods.
+
+- Payment
